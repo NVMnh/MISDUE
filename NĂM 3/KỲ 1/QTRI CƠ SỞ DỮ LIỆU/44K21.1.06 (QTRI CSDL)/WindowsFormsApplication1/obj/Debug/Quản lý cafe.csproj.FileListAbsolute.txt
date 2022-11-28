@@ -1,0 +1,36 @@
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csprojResolveAssemblyReference.cache
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Order.resources
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormDangNhap.resources
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormNuocUong.resources
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormHoaDon.resources
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csproj.GenerateResource.Cache
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csprojResolveAssemblyReference.cache
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Order.resources
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormDangNhap.resources
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormNuocUong.resources
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormHoaDon.resources
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ThucTapNhanThuc44K\01\lam tai day\QLCF\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csproj.GenerateResource.Cache
+D:\NHom 6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\NHom 6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\NHom 6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csprojResolveAssemblyReference.cache
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Order.resources
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormDangNhap.resources
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormNuocUong.resources
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormHoaDon.resources
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\NHom 6\WindowsFormsApplication1\obj\Debug\Quản lý cafe.csproj.GenerateResource.Cache
