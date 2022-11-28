@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<UserSettings>
+  <ApplicationIdentity version="10.0"/>
+  <Category name="Environment_Group" RegisteredName="Environment_Group">
+    <Category name="Environment_CommandBars" Category="{B9D9C123-B500-4202-B887-57C829CBD08F}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_CommandBars" PackageName="Visual Studio Environment Package">
+      <CommandBars Version="05072811">
+        <DefaultCustomizations>
+          <add Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000001b" CmdPri="05008001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000501" CmdPri="00200000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000500" CmdPri="00210000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000e0" CmdPri="05000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000010" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000172" GroupPri="03000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000000f" CmdPri="02000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000172" GroupPri="03000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000001a" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000172" GroupPri="03000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000002c" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000173" GroupPri="05000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000001e" CmdPri="02000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000173" GroupPri="05000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000127" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000174" GroupPri="09000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000002ac" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000174" GroupPri="09000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:000007c6" CmdPri="04000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000174" GroupPri="09000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000151" CmdPri="02000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000177" GroupPri="0b000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000ea" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000178" GroupPri="0d000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000eb" CmdPri="02000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000178" GroupPri="0d000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000002a" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000178" GroupPri="0d000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <remove Cmd="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000502" CmdPri="ff000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000178" GroupPri="0d000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000de" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="true"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000de" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="true"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000de" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="true"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000014b" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="false"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000001b" CmdPri="05008001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="false"/>
+          <modify Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:0000001b" CmdPri="05008001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000171" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000001" BeginGroup="false"/>
+        </DefaultCustomizations>
+			<UserCustomizations>
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000109" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000160" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000086"/>
+				</UserCustomizations>
+      </CommandBars>
+      <PropertyValue name="ShowLargeButtons">false</PropertyValue>
+      <PropertyValue name="ShowScreenTips">true</PropertyValue>
+      <PropertyValue name="ShowScreenTipShortcutKeys">false</PropertyValue>
+    </Category>
+    <Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+      <Version>10.0.0.0</Version>
+      <KeyboardShortcuts>
+        <ScopeDefinitions>
+          <Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+          <Scope Name="Table Designer" ID="{A8FC853B-D6C6-4482-A279-9E74EA812B00}"/>
+          <Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+          <Scope Name="Query Designer" ID="{33941854-F604-48D5-97EF-7E538692D2FB}"/>
+          <Scope Name="View Designer" ID="{E6AC6F69-B102-48DE-BE5F-002B18596BBF}"/>
+          <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+          <Scope Name="XMLA Script Editor" ID="{B7DF28AE-C9A1-4263-A498-9897B98336A1}"/>
+          <Scope Name="Database Designer" ID="{53F43BBD-B2F3-46BA-A85C-7D4718290D29}"/>
+          <Scope Name="MDX Script Editor" ID="{1CEAF4C2-677D-456A-9BED-1AC73B989127}"/>
+          <Scope Name="SQL Query Editor" ID="{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"/>
+          <Scope Name="DMX Script Editor" ID="{A8AE89ED-34A0-489E-8A98-AEE7CEDEA6B7}"/>
+        </ScopeDefinitions>
+        <DefaultShortcuts/>
+        <ShortcutsScheme/>
+        <UserShortcuts>
+          <RemoveShortcut Command="Debug.ParallelStacks" Scope="Global">Ctrl+Shift+D, S</RemoveShortcut>
+   	  <RemoveShortcut Command="Debug.ParallelTasks" Scope="Global">Ctrl+Shift+D, K</RemoveShortcut>
+          <RemoveShortcut Command="Debug.Start" Scope="Global">F5</RemoveShortcut>
+          <Shortcut Command="View.ObjectExplorer" Scope="Global">F8</Shortcut>
+          <Shortcut Command="View.ObjectExplorerDetails" Scope="Global">F7</Shortcut>
+          <Shortcut Command="Query.OpenServerinObjectExplorer" Scope="Global">Alt+F8</Shortcut>
+          <Shortcut Command="View.RegisteredServers" Scope="Global">Ctrl+Alt+G</Shortcut>
+          <Shortcut Command="View.Refresh" Scope="Global">F5</Shortcut>
+	  <Shortcut Command="Query.CustomSP1" Scope="SQL Query Editor">Ctrl+Shift+F1</Shortcut>
+          <Shortcut Command="Query.DisplayEstimatedExecutionPlan" Scope="SQL Query Editor">Ctrl+Shift+Alt+L</Shortcut>
+          <Shortcut Command="Query.Execute" Scope="SQL Query Editor">Ctrl+Shift+E</Shortcut>
+          <Shortcut Command="Query.Execute" Scope="MDX Script Editor">Ctrl+Shift+E</Shortcut>
+          <Shortcut Command="Query.Execute" Scope="DMX Script Editor">Ctrl+Shift+E</Shortcut>
+          <Shortcut Command="Query.Execute" Scope="XMLA Script Editor">Ctrl+Shift+E</Shortcut>
+          <Shortcut Command="Query.ResultstoFile" Scope="SQL Query Editor">Ctrl+Shift+T</Shortcut>
+          <Shortcut Command="Query.ResultstoGrid" Scope="SQL Query Editor">Ctrl+Shift+D</Shortcut>
+	  <Shortcut Command="Query.IncludeClientStatistics" Scope="SQL Query Editor">Shift+Alt+S</Shortcut>
+	  <Shortcut Command="Query.SpecifyValuesforTemplateParameters" Scope="SQL Query Editor">Ctrl+Shift+M</Shortcut>
+          <Shortcut Command="Query.IncludeActualExecutionPlan" Scope="SQL Query Editor">Ctrl+Shift+Alt+M</Shortcut>
+          <Shortcut Command="Window.ShowResultsPane" Scope="SQL Query Editor">Ctrl+Shift+Alt+R</Shortcut>
+          <Shortcut Command="Window.ShowResultsPane" Scope="MDX Script Editor">Ctrl+Shift+Alt+R</Shortcut>
+          <Shortcut Command="Window.ShowResultsPane" Scope="DMX Script Editor">Ctrl+Shift+Alt+R</Shortcut>
+          <Shortcut Command="Window.ShowResultsPane" Scope="XMLA Script Editor">Ctrl+Shift+Alt+R</Shortcut>
+          <Shortcut Command="View.TemplateExplorer" Scope="Global">Ctrl+Alt+T</Shortcut>
+        </UserShortcuts>
+      </KeyboardShortcuts>
+    </Category>
+    <Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+      <PropertyValue name="Version">2</PropertyValue>
+      <FontsAndColors Version="2.0">
+        <Categories>
+          <Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
+            <Items>
+              <Item Name="SQL System Table" Foreground="0x00008000" Background="0x02000000" BoldFont="No" />
+            </Items>
+          </Category>
+        </Categories>
+      </FontsAndColors>
+    </Category>
+  </Category>
+<Description>
+	<ResourceID>#120</ResourceID>
+	<ResourcePackage>{04401ff3-8b0f-4d2d-85eb-2a3542867a8b}</ResourcePackage>
+</Description>
+<DisplayName>
+        <ResourceID>#121</ResourceID>
+	<ResourcePackage>{04401ff3-8b0f-4d2d-85eb-2a3542867a8b}</ResourcePackage>
+</DisplayName>
+</UserSettings>
